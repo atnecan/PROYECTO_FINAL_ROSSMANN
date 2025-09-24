@@ -22,3 +22,14 @@
 2025-03-12 19:22:14 - [INFO] - Iniciando EDA final...
 2025-03-12 19:22:15 - [INFO] - EDA final completado.
 2025-03-12 19:22:21 - [INFO] - Datos limpios guardados en: DATA/rossmann_final.csv
+2025-03-12 19:35:49 - [INFO] - Iniciando notebook de análisis unificado.
+2025-03-12 19:36:13 - [INFO] - Archivos train y store cargados correctamente.
+2025-03-12 19:36:13 - [INFO] - Archivo test.csv cargado: (41088, 8)
+2025-03-12 19:36:28 - [INFO] - Unión de DataFrames (train y store) completada correctamente.
+2025-03-12 19:36:51 - [INFO] - Iniciando EDA inicial...
+2025-03-12 19:36:58 - [INFO] - EDA inicial completado.
+2025-03-12 19:38:32 - [INFO] - Iniciando limpieza y transformación de datos...
+2025-03-12 19:38:34 - [INFO] - Limpieza y transformación completadas con éxito.
+2025-03-12 19:39:04 - [INFO] - Iniciando EDA final...
+2025-03-12 19:39:05 - [INFO] - EDA final completado.
+2025-03-12 19:39:32 - [INFO] - Datos limpios guardados en: DATA/rossmann_final.csv
